@@ -1,6 +1,6 @@
 # Java 基础语法特性
 
-> **📦 本文以及示例源码已归档在 [javacore](https://github.com/dunwu/javacore/)（图片不显示请看：https://www.cnblogs.com/duhuo/p/4162766.html）**📦
+> 📦 本文以及示例源码已归档在 [javacore](https://github.com/dunwu/javacore/)（图片不显示请看：https://www.cnblogs.com/duhuo/p/4162766.html）
 
 <!-- TOC depthFrom:2 depthTo:3 -->
 
