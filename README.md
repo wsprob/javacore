@@ -147,3 +147,15 @@
 - [数据结构和算法教程](https://dunwu.github.io/algorithm-tutorial/) 📚
 - [Linux 教程](https://dunwu.github.io/linux-tutorial/) 📚
 - [Nginx 教程](https://github.com/dunwu/nginx-tutorial/) 📚
+
+
+## 2. 枚举的本质
+
+`java.lang.Enum`类声明
+
+```java
+public abstract class Enum<E extends Enum<E>>
+        implements Comparable<E>, Serializable { ... }
+```
+
+新建一个 ColorEn.java 文件，内容如下：
